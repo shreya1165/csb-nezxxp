@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shreya1165.github.io/csb-nezxxp/static/css/main.541c6177.chunk.css",
+    "main.js": "https://shreya1165.github.io/csb-nezxxp/static/js/main.6790e254.chunk.js",
+    "main.js.map": "https://shreya1165.github.io/csb-nezxxp/static/js/main.6790e254.chunk.js.map",
+    "runtime-main.js": "https://shreya1165.github.io/csb-nezxxp/static/js/runtime-main.c97e89f9.js",
+    "runtime-main.js.map": "https://shreya1165.github.io/csb-nezxxp/static/js/runtime-main.c97e89f9.js.map",
+    "static/js/2.13fdb969.chunk.js": "https://shreya1165.github.io/csb-nezxxp/static/js/2.13fdb969.chunk.js",
+    "static/js/2.13fdb969.chunk.js.map": "https://shreya1165.github.io/csb-nezxxp/static/js/2.13fdb969.chunk.js.map",
+    "index.html": "https://shreya1165.github.io/csb-nezxxp/index.html",
+    "static/css/main.541c6177.chunk.css.map": "https://shreya1165.github.io/csb-nezxxp/static/css/main.541c6177.chunk.css.map",
+    "static/js/2.13fdb969.chunk.js.LICENSE.txt": "https://shreya1165.github.io/csb-nezxxp/static/js/2.13fdb969.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c97e89f9.js",
+    "static/js/2.13fdb969.chunk.js",
+    "static/css/main.541c6177.chunk.css",
+    "static/js/main.6790e254.chunk.js"
+  ]
+}
